@@ -1,6 +1,6 @@
 body
 {
-    background-color: silver;
+    background-color: rgb(238, 88, 88);
 
 }
 
@@ -22,5 +22,16 @@ body h2
 }
 #pa_2
 {
-    color: rgb(57, 102, 11);
+    color: rgb(33, 59, 7);
+}
+
+.pa_3
+{
+    color: rgb(43, 15, 70);
+    text-align: center;
+}
+h3
+{
+    color: white;
+    text-align: center;
 }
